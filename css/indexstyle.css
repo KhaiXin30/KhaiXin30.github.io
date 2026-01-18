@@ -2648,7 +2648,7 @@ figcaption {
 
 .footer-wrap {
   align-items: center;
-  padding: 40px 50px;
+  padding: 40px 80px;
   display: flex;
   background-color: rgb(237,237,237);
   justify-content: flex-end;
